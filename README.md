@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @linzhongbao520
+- 👀 I’m interested in Web developer. I’m currently learning MERN stack.
+- 🌱 Web developer focusing on the MERN stack. Building responsive, scalable websites that cater to user needs.
